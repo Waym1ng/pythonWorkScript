@@ -8,3 +8,4 @@
 - 连接ES数据库封装类
 - 封装 python 连接MySQL的类(使用SQL语句执行)
 - 列表形式的数据转换成树结构(以parent_id的方式)
+- MySQL数据库某张表的备份shell脚本
