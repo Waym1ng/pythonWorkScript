@@ -9,3 +9,4 @@
 - [封装 python 连接MySQL的类(使用SQL语句执行)](https://github.com/Waym1ng/pythonDemo/blob/main/python-connect-mysql.py)
 - [列表形式的数据转换成树结构(以parent_id的方式)](https://github.com/Waym1ng/pythonDemo/blob/main/list_to_tree.py)
 - [MySQL数据库某张表的备份shell脚本](https://github.com/Waym1ng/pythonDemo/blob/main/mysql_backup_sh.sh)
+- [搜索某个路径下的文件path并输出为excel文档](https://github.com/Waym1ng/pythonDemo/blob/main/search_path_to_xlsx.py)
